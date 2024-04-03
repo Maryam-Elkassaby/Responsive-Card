@@ -1,5 +1,4 @@
 # CSS Card Hover Effects
-### CSS Card Hover Effects
 
 - CSS Card Hover Effects | HTML & CSS
 - Contains beautiful images on the card.
