@@ -1,0 +1,61 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  /*========== Colors ==========*/
+  --first-color: #53721d;
+  --title-color: #262626;
+  --text-color: #595959;
+  --body-color: #f2f2f2;
+  --container-color: #ffffff;
+  /*========== Font and typography ==========*/
+  --body-font: "Poppins", sans-serif;
+  --h2-font-size: 20px;
+  --small-font-size: 13px;
+}
+
+/*========== Responsive typography ==========*/
+@media screen and (min-width: 1120px) {
+  :root {
+    --h2-font-size: 24px;
+    --small-font-size: 14px;
+  }
+}
+
+/*=============== BASE ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: var(--body-font);
+  background-color: var(--body-color);
+  color: var(--text-color);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/*=============== CARD ===============*/
+
+
+/* Naming animations in hover */
+
+
+/* Card animation */
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+
+/* For medium devices */
+
+
+/* For large devices */
